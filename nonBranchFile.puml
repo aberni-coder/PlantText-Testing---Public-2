@@ -1,4 +1,5 @@
 @startuml
   actor hi
   actor hola
+  actor bonjour
 @enduml
